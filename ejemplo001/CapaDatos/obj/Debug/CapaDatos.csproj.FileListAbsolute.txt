@@ -1,0 +1,6 @@
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ICIT-VI SEMESTRE\PRUEBAS DE SOFTWARE\PROYECTOS\ejemplo001\CapaDatos\obj\Debug\CapaDatos.pdb

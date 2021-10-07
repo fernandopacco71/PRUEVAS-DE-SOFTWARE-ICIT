@@ -70,5 +70,11 @@ namespace TAREA03
                 C_OPCIONES.Enabled = true;
             }
         }
+
+        public override string ToString()
+        {
+            return f;
+        }
+
     }
 }

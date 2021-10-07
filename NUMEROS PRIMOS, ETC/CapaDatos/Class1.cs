@@ -29,11 +29,11 @@ namespace CapaDatos
                 }
                 if (acu == 2)
                 {
-                    f ="el numero " + x + " es primo";
+                    f = "el numero " + x + " es primo";
                 }
                 else
                 {
-                    f ="el numero " + x + " no es primo";
+                    f = "el numero " + x + " no es primo";
                 }
             }
         }
@@ -48,7 +48,7 @@ namespace CapaDatos
                 x = Convert.ToInt16(value);
                 if ((x % 2) == 0)
                 {
-                    f = "el numero "+ x +" es par";
+                    f = "el numero " + x + " es par";
                 }
                 else
                 {
@@ -67,7 +67,7 @@ namespace CapaDatos
                 x = Convert.ToInt16(value);
                 if (x % 5 == 0)
                 {
-                    f = "el numero "+ x + " es divisble entre 5";
+                    f = "el numero " + x + " es divisble entre 5";
                 }
                 else
                 {
@@ -105,4 +105,76 @@ namespace CapaDatos
             }
         }
     }
+
+
+    //public class Operaciones
+    //{
+
+
+    //    int x;
+    //    string f;
+    //    public int primo
+    //    {
+
+    //        set
+    //        {
+    //            try
+    //            {
+    //                x = Convert.ToInt16(value);
+    //                int acu = 0;
+    //                for (int i = 1; i <= x; i++)
+    //                {
+    //                    if (x % i == 0)
+    //                    {
+    //                        acu++;
+    //                    }
+    //                }
+    //                if (acu <= 2)
+    //                {
+    //                    f = "Es primo";
+    //                }
+    //                else
+    //                {
+    //                    f = "No es primo";
+    //                }
+
+    //            }
+    //            catch (Exception ex)
+    //            {
+    //                throw (ex);
+    //            }
+    //        }
+    //    }
+    //    public int par
+    //    {
+
+    //        set
+    //        {
+    //            try
+    //            {
+    //                x = Convert.ToInt16(value);
+
+    //                if (x % 2 == 0)
+    //                {
+    //                    f = "Es par";
+    //                }
+    //                else
+    //                {
+    //                    f = "No es par";
+    //                }
+
+    //            }
+    //            catch (Exception ex)
+    //            {
+    //                throw (ex);
+    //            }
+    //        }
+
+
+    //    }
+    //    public override string ToString()
+    //    {
+    //        return f;
+    //    }
+    //}
 }
